@@ -32,6 +32,6 @@ website:
 
 format:
   html:
-    theme: minty
+    theme: journal
     toc: true
     lang: es
