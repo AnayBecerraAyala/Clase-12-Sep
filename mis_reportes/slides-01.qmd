@@ -4,7 +4,7 @@ subtitle: "Mis resultados en slides"
 author: "Tu nombre"
 format:
   revealjs:
-    theme: simple
+    theme: serif
     transition: slide
     slide-number: true
     incremental: false
@@ -15,10 +15,12 @@ format:
 
 Esta presentación combina:
 
+::: {.incremental}
 - Chunks de **R**
 - Chunks de **Python**
 - Gráficos generados en vivo
 - Layout en columnas
+:::
 
 ---
 
