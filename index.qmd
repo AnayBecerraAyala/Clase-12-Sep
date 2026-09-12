@@ -1,5 +1,5 @@
 ---
-title: "Reportes trimestrales"
+title: "Listados de reportes."
 image: foto_gato.jpg
 about:
   template: jolla   # opciones: jolla, trestles, solana, marquee, broadside
@@ -16,6 +16,10 @@ about:
     - icon: slack
       text: Slack
       href: https://slack.com/intl/es-mx/
+    - icon: facebook
+      text: Facebook
+      href: https://www.facebook.com/
+
 ---
 
 En este sitio encontrarás los reportes que se realizaron para el proyecto...
